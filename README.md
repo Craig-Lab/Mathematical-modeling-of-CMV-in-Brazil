@@ -1,4 +1,4 @@
-# Mathematical-modelling-of-cytomegalovirus-vaccination-scenarios-in-high-seroprevalence-populations-
+# Mathematical-modelling-of-CMV-in-Brazil
 This repository accompanies the article “Mathematical modeling of cytomegalovirus vaccination scenarios in high-seroprevalence populations highlights the importance of immunizing infants.”
 
 **R Version**
